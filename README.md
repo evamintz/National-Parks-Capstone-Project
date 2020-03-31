@@ -3,7 +3,7 @@ This project is focused around understanding national park trail data (U.S.), sp
 
 You can follow the process of importing the raw data in Jupyter Notebooks through cleaning, wrangling, exploration, statistical analysis, and finally the machine learning prediction models [here](https://github.com/evamintz/National-Parks-Capstone-Project/blob/master/Capstone1.ipynb).
 
-In a [slideshow presentation](https://github.com/evamintz/National-Parks-Capstone-Project/blob/master/Cap1%20-%20National%20Park%20Trails.pdf) - main points/conclusions, shortest and easiest to follow along with.
+In a [slideshow presentation](https://github.com/evamintz/National-Parks-Capstone-Project/blob/master/National%20Park%20Trails%20Slides.pdf) - main points/conclusions, shortest and easiest to follow along with.
 
 In a [written report](https://github.com/evamintz/National-Parks-Capstone-Project/blob/master/NPT%20Report%20(1).pdf) - ~10 pages with graphs and in depth discussion of analysis.
 
