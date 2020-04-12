@@ -5,5 +5,5 @@ You can follow the process of importing the raw data in Jupyter Notebooks throug
 
 In a [slideshow presentation](https://github.com/evamintz/National-Parks-Capstone-Project/blob/master/National%20Park%20Trails%20Slides.pdf) - main points/conclusions, shortest and easiest to follow along with.
 
-In a [written report](https://github.com/evamintz/National-Parks-Capstone-Project/blob/master/NPT%20Report%20(1).pdf) - ~10 pages with graphs and in depth discussion of analysis.
+In a [written report](https://github.com/evamintz/National-Parks-Capstone-Project/blob/master/NPT%20Report%20(2).pdf) - ~10 pages with graphs and in depth discussion of analysis.
 
